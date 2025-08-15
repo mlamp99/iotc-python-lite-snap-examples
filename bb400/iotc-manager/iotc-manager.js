@@ -1,7 +1,3 @@
-# SPDX-License-Identifier: MIT
-# Copyright (C) 2025 Avnet
-# Authors: Michael Lamp <michael.lamp@avnet.com> et al.
-
 // manager.js (Cockpit package) — with IoTConnect envelope format
 (function () {
   "use strict";
